@@ -10,3 +10,7 @@
 - 업무관련 기술스택 정리
   - [ ] Spring Cloud Stream
   - [ ] MongoDB
+
+#### 5/17
+- 멘토링
+  - [ ] OFFICE HOUR
